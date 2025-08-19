@@ -1,18 +1,31 @@
-## Getting Started
+# Desafio DIO - Padrões de Projeto com Java Puro
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido para o desafio do bootcamp **GFT Start #7 - Java** da [Digital Innovation One (DIO)](https://www.dio.me/), com o objetivo de aplicar na prática os conceitos de **Padrões de Projeto** utilizando Java puro.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## Descrição do Projeto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Este repositório apresenta implementações dos padrões de projeto **Facade**, **Strategy** e **Singleton** utilizando Java puro. O objetivo é demonstrar, na prática, como esses padrões ajudam a organizar e estruturar código de forma limpa, reutilizável e fácil de manter.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Padrões de Projeto Implementados
 
-## Dependency Management
+- **Singleton** — Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a essa instância.  
+- **Strategy** — Permite definir uma família de algoritmos, encapsulando cada um deles e tornando-os intercambiáveis em tempo de execução.  
+- **Facade** — Oferece uma interface simplificada para um conjunto de interfaces em um subsistema, facilitando o uso e a integração.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## Tecnologias e Ferramentas
+
+- Linguagem: Java  
+- Paradigma: Programação Orientada a Objetos (POO)  
+- Ferramentas: IDE Java (VS Code.)
+
+---
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues com sugestões ou enviar pull requests com melhorias no código, nas interfaces ou na lógica do projeto.
